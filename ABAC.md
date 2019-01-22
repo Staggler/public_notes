@@ -1,4 +1,4 @@
-# (Guide to Attribute Based Access Control (ABAC) Definition and Considerations)[https://github.com/danphilpott/fismapedia-files/blob/master/NIST%20SP%20800-162%20Guide%20to%20Attribute%20Based%20Access%20Control%20(ABAC)%20Definition%20and%20Considerations,%202014-01-16%20(Final).pdf]
+# [Guide to Attribute Based Access Control (ABAC) Definition and Considerations](https://github.com/danphilpott/fismapedia-files) (NIST SP 800-162)
 
 > ABAC is a logical access control model that is distinguishable because it controls access to objects by evaluating rules against the attributes of entities (subject and object), operations, and the environment relevant to a request. ABAC systems are capable of enforcing both Discretionary Access Control (DAC) and Mandatory Access Control (MAC) concepts. ABAC enables precise access control, which allows for a higher number of discrete inputs into an access control decision, providing a bigger set of possible combinations of those variables to reflect a larger and more definitive set of possible rules to express policies. 
 
